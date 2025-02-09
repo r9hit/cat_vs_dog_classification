@@ -23,7 +23,7 @@ This project explores CNN-based image classification using both a custom-built C
 
 ### **4. Transfer Learning – Fine-Tuning** (`fine_tuning.ipynb`)  
 - Unfroze some deeper layers of **VGG16** and retrained the model to adapt it to the dataset.  
-- Achieved the highest accuracy of **X%**.  
+- Achieved the highest accuracy of **95.42%**.  
 
 ## **Results & Observations**  
 - Accuracy progressively improved with each approach.  
